@@ -14,6 +14,7 @@
 		704999C82A14332100C6B063 /* Test_AppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 704999C72A14332100C6B063 /* Test_AppTests.swift */; };
 		704999D22A14332100C6B063 /* Test_AppUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 704999D12A14332100C6B063 /* Test_AppUITests.swift */; };
 		704999D42A14332100C6B063 /* Test_AppUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 704999D32A14332100C6B063 /* Test_AppUITestsLaunchTests.swift */; };
+		70AA3B422A143B2300C8CB32 /* NewView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 70AA3B412A143B2300C8CB32 /* NewView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +45,7 @@
 		704999CD2A14332100C6B063 /* Test AppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Test AppUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		704999D12A14332100C6B063 /* Test_AppUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Test_AppUITests.swift; sourceTree = "<group>"; };
 		704999D32A14332100C6B063 /* Test_AppUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Test_AppUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		70AA3B412A143B2300C8CB32 /* NewView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -98,6 +100,7 @@
 				704999B82A14331E00C6B063 /* ContentView.swift */,
 				704999BA2A14332000C6B063 /* Assets.xcassets */,
 				704999BC2A14332000C6B063 /* Preview Content */,
+				70AA3B412A143B2300C8CB32 /* NewView.swift */,
 			);
 			path = "Test App";
 			sourceTree = "<group>";
@@ -257,6 +260,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				70AA3B422A143B2300C8CB32 /* NewView.swift in Sources */,
 				704999B92A14331E00C6B063 /* ContentView.swift in Sources */,
 				704999B72A14331E00C6B063 /* Test_AppApp.swift in Sources */,
 			);
